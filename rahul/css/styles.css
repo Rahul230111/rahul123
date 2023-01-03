@@ -1,0 +1,106 @@
+body {
+	margin: 0;
+	text-align: center;
+	background-color: #DFD3C3;
+
+
+}
+.dotted
+		{
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 15px;
+			width: 20%;
+			}
+.dev{
+color: #6C00FF;
+}
+.icon{
+	margin-top: 50px;
+	margin-bottom: 100px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	padding: 10px;
+}
+
+h2{
+	font-family: oswald, sans-serif;
+	color: purple;
+
+}
+.middlecontainer{
+	background-color: #F5EDCE;
+	margin: 0px;
+	font-size: 30px;
+	padding-top: 40px;
+
+
+}
+.profile{
+	padding-bottom: 40px;
+	position: relative;
+}
+
+h1{
+	margin: 0 auto 0 auto;
+	color: #EB455F;
+		font-family: oswald, sans-serif;
+		font-size: 50px;
+}
+p{
+	color: #579BB1;
+		font-family: cursive;
+}
+.cloud1{
+	margin-left: 500px;
+}
+.cloud2 {
+	position: absolute;
+
+}
+.skill{
+	margin-top:30px ;
+
+}
+.top-container{
+	background-color:#CBEDD5 ;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.youtube{
+	display: inline-block;
+	position: absolute;
+	left: 30px;
+	ma
+}
+
+.instagram{
+	display: inline-block;
+	position: absolute;
+ 	left: 130px;
+}
+.facebook{
+	display: inline-block;
+	position: absolute;
+ 	left: 250px;
+}
+.telegram{
+	display: inline-block;
+	position: absolute;
+ 	left: 360px;
+ 	margin-right: 1000px;
+}
+#bottom-container{
+	padding-top: 30px;
+	background-color: #4B56D2;
+	padding-bottom: 20px;
+
+}
+.footer-link{
+	color: #C0DEFF;
+	padding: 10px;
+}
+h3{
+	color: #F4EAD5;
+}
